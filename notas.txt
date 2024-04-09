@@ -1,0 +1,21 @@
+/* Reset de CSS - Limpa configurações padrão que atrapalham */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* seletores - Seleciona elementos para estilizar */
+/* Seletor por tag - seleciona todos os elementos com a tag */
+div {
+      height: 500px;
+      width: 200px;
+      background: blue;
+      border: solid 8px black;
+}
+
+/* Seletor por classe - Seleciona todos os elementos com a classe */
+.caixa-verde {
+    background-color: darkgreen;
+}
+/* vh -> Porcentagem da ALTURA da viewport (janela) */
