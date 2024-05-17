@@ -2,19 +2,23 @@
   "cases": [
     {
       "imagem": "https://unsplash.it/600/400?image=14",
-      "descricao": "Uma empresa de tecnologia lança um desafio de gamificação onde os funcionários devem propor e implementar ideias inovadoras."
+      "descricao": "Uma empresa de tecnologia lança um desafio de gamificação onde os funcionários devem propor e implementar ideias inovadoras.",
+      "id": "b82f"
     },
     {
       "imagem": "https://unsplash.it/600/400?image=41",
-      "descricao": "Uma empresa de consultoria cria uma narrativa interativa de gamificação para seu programa de treinamento."
+      "descricao": "Uma empresa de consultoria cria uma narrativa interativa de gamificação para seu programa de treinamento.",
+      "id": "7ee4"
     },
     {
       "imagem": "https://unsplash.it/600/400?image=23",
-      "descricao": "Uma empresa de vendas implementa uma competição gamificada entre equipes que competem pelo topo do ranking."
+      "descricao": "Uma empresa de vendas implementa uma competição gamificada entre equipes que competem pelo topo do ranking.",
+      "id": "7f88"
     },
     {
       "imagem": "https://unsplash.it/600/400?image=62",
-      "descricao": "Uma empresa de saúde promove o bem-estar dos funcionários através de um desafio de gamificação de condicionamento físico"
+      "descricao": "Uma empresa de saúde promove o bem-estar dos funcionários através de um desafio de gamificação de condicionamento físico",
+      "id": "c810"
     }
   ],
   "solicitacoes": [
@@ -23,6 +27,42 @@
       "nome": "Gustavo",
       "email": "Gustavo@gmail.com",
       "descricao": "estou sem dormir a semanas por causa do curso..."
+    },
+    {
+      "id": "cccb",
+      "nome": "Gustavo ",
+      "email": "Gustavo@gmail.com",
+      "descricao": "Eu."
+    },
+    {
+      "id": "a8a4",
+      "nome": "Gustavo",
+      "email": "Gustavo@gmail.com",
+      "descricao": "bdhebfbwf."
+    },
+    {
+      "id": "d7d8",
+      "nome": "defef",
+      "email": "Gustavo@gmail.com",
+      "descricao": ""
+    },
+    {
+      "id": "ff7e",
+      "nome": "dvdvdvv",
+      "email": "guga@gmail.com",
+      "descricao": "cedvevev"
+    },
+    {
+      "id": "e283",
+      "nome": "Gustavo",
+      "email": "guga@gmail.com",
+      "descricao": "efwfwf"
+    },
+    {
+      "id": "56fd",
+      "nome": "Gustavo",
+      "email": "Gustavo@gmail.com",
+      "descricao": "asdfg."
     }
   ]
 }
